@@ -1,0 +1,15 @@
+[submodule "eureka-credit"]
+	path = eureka-credit
+	url = https://github.com/GuzztMega/eureka-credit
+[submodule "eureka-card"]
+	path = eureka-card
+	url = https://github.com/GuzztMega/eureka-card
+[submodule "eureka-client"]
+	path = eureka-client
+	url = https://github.com/GuzztMega/eureka-client
+[submodule "eureka-cloud-gateway"]
+	path = eureka-cloud-gateway
+	url = https://github.com/GuzztMega/eureka-cloud-gateway
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/GuzztMega/eureka-server
