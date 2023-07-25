@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-card" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-cloud-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-credit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-server" vcs="Git" />
+  </component>
+</project>
